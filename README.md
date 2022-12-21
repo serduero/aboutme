@@ -1,2 +1,2 @@
-# Aboutme
-Sobre mi...
+# About me
+Portfolio de trabajos
